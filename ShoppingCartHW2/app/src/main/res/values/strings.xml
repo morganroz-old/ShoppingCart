@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ShoppingCartHW</string>
+    <string name="description">Description</string>
+    <string name="estimated_price">Estimated Price</string>
+    <string name="name">Name</string>
+    <string name="already_purchased">Already Purchased?</string>
+    <string name="add_item">Add Item</string>
+    <string name="ok">OK</string>
+    <string name="cart_total">Cart Total:</string>
+    <string name="purchased">Purchased</string>
+    <string name="clear">Clear</string>
+
+    <string-array name="category_array">
+        <item>Food</item>
+        <item>Household</item>
+        <item>Clothing</item>
+        <item>Cleaning</item>
+        <item>Electronic</item>
+    </string-array>
+
+</resources>
